@@ -1,0 +1,32 @@
+/* fichier css   style de la page index    */
+
+
+ body
+{
+	background-color:#BBD3C7
+}
+
+.paragraphe3
+{
+    color: red;
+	text-align: center;
+	font-size: 35px;
+}	
+.paragraphe4
+{
+	color: white;
+	text-align: center;
+	font-size: 18px;
+}
+.paragraphe5
+{
+	color:red; 
+	text-align: center;
+	font-size: 35px;
+}
+.paragraphe6
+{
+	color: white; 
+	text-align: center;
+	font-size: 18px;
+}	

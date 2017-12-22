@@ -1,0 +1,126 @@
+/* fichier css   style de la page index    */
+
+
+ body
+{
+	background-color:#BBD3C7
+}
+
+.paragraphe3
+{
+    color: white;
+	text-align: center;
+	font-size: 18px;
+	text-shadow: 2px 2px 4px black;
+}	
+.paragraphe4
+{
+	color: white;
+	text-align: center;
+	font-size: 18px;
+	border: 2px;
+	text-shadow: 2px 2px 4px black;
+}
+.paragraphe5
+{
+	color:red; 
+	text-align: center;
+	font-size: 35px;
+	text-transform: capitalize;
+	border: 2px red groove;
+	text-shadow: 2px 2px 4px black;
+	margin: 10px 10px 10px 10px;
+}
+.paragraphe6
+{
+	color: white; 
+	text-align: center;
+	font-size: 18px;
+	text-shadow: 2px 2px 4px black;
+}	
+.paragraphe7
+{
+	color: red; 
+	text-align: center;
+	font-size: 28px;
+	text-transform: capitalize;
+	text-shadow: 2px 2px 4px black;
+}	
+.paragraphe8
+{
+	color: white; 
+	text-align: center;
+	font-size: 18px;
+	text-shadow: 2px 2px 4px black;
+}	
+.paragraphe9
+{
+	color: red; 
+	text-align: center;
+	font-size: 28px;
+	text-transform: capitalize;
+	text-shadow: 2px 2px 4px black;
+}	
+.paragraphe2
+{
+	color: red; 
+	text-align: center;
+	font-size: 28px;
+	text-transform: capitalize;
+	text-shadow: 2px 2px 4px black;
+}	
+.paragraphe1
+{
+	color; white;
+	text-align: center;
+	font-size: 24px;
+	text-shadow: 2px 2px 4px black;
+}
+a
+{
+	color: purple;
+}
+#menu-vertical, #menu-vertical ul {
+  padding:0;
+  margin:0;
+  list-style:none;
+  width: 180px; /* seule ligne rajoutée */
+}
+#menu-vertical li {
+  position: relative;
+  background:#EFEFEF; /* juste pour cacher le texte de la page en-dessous */
+}
+#menu-vertical a {
+  display:block;
+  text-decoration: none;
+  color: #000;
+}
+#menu-vertical ul {
+  position: absolute;
+  left:-999em;
+}
+#menu-vertical li:hover ul {
+  top: 0;
+  left: 0px;
+}
+ul
+{
+	color: red; 
+	text-align: center;
+	font-size: 28px;
+	text-transform: capitalize;
+	text-shadow: 2px 2px 4px black;
+}
+
+.flotte 
+{
+float: left;
+}
+.flotte2
+{
+float: right;
+}
+.flotte3
+{
+float: left;
+}
